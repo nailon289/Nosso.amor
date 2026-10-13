@@ -1,0 +1,20 @@
+NOS_DOIS.EXE — site do primeiro aniversário ❤️
+
+COMO ABRIR
+1. Extraia o arquivo ZIP.
+2. Abra a pasta nos_dois_site.
+3. Toque em index.html para abrir no navegador.
+   Se o celular não abrir o HTML diretamente, use um editor de código ou publique
+   a pasta no GitHub Pages.
+
+PERSONALIZAR
+- index.html: textos, músicas, legendas e fotos.
+- style.css: cores, fontes e aparência.
+- script.js: animações e interações.
+- fotos/: imagens do casal.
+
+NOTAS
+- O site usa fontes do Google Fonts quando há internet; há fontes alternativas.
+- Os links das músicas abrem buscas no YouTube, para você escolher a versão correta.
+- Não há reprodução automática de música.
+- Para publicar, envie todos os arquivos e a pasta fotos/ juntos para o repositório.
